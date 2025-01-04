@@ -1,0 +1,59 @@
+body{
+    background-color: lemonchiffon;
+}
+h1{
+    background-color: #cec4ff;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 1px 1px 1px black;
+}
+.list{
+    font-size: 35px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+img{
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+/* Hot chocolate css */
+
+body#hotchoco{
+    background-color: bisque;
+}
+.chocolate{
+    color: #5C4033;
+}
+h1.chocolate{
+    background-color: whitesmoke;
+}
+.para{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+/* Marble cake css */
+.cake{
+    color: burlywood;
+}
+body#marblecake{
+    background-color:beige
+}
+h1.cake{
+    background-color: #5C4033;
+}
+/* Sweet potato css */
+.fries{
+    color: #9F2B00;
+}
+body#fries{
+    background-color: #C1C2D0;
+}
+h1.fries{
+    background-color: #F6F4DE;
+}
