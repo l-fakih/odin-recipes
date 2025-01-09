@@ -13,6 +13,15 @@ h1{
     font-size: 35px;
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: black;
+    border: 10px solid #d3c4ff;
+    margin: 20px;
+    text-align: center;
+}
+.container{
+    border: 15px solid #cec4ff;
+    margin: 0px auto;
+    padding: 20px;
+    height: fit-content;
 }
 img{
     height: auto;
